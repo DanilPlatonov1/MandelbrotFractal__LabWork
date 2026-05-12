@@ -24,24 +24,29 @@
 Параллельная версия работы: изображение делится на строки, каждая часть которой обрабатывается отдельным процессом и затем результаты объединяются в финальное изображение.
 
 ## 4. Скриншоты программы
-1) Рисунок 1 - Скриншот главного экрана программы
+1) z_{n+1} = z_n^2 + c
+   Как работает:
+   старт: z_{0}​ = 0
+точка c берётся из координат пикселя
+проверяется, “убегает” ли последовательность
    <img width="1200" height="910" alt="image" src="https://github.com/user-attachments/assets/37b56b52-d0ab-4e3a-acf5-c89f9516134f" />
+   Рисунок 1 - Скриншот главного экрана программы
    
-2) Рисунок 2 - Выбор фрактала и параллельный рендер изображения
+3) Рисунок 2 - Выбор фрактала и параллельный рендер изображения
    <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b74d4423-8bac-4d3f-b2f1-312d344493c6" />
    
-3) Рисунок 3 - Множество Мандельброта
+4) Рисунок 3 - Множество Мандельброта
    <img width="1200" height="800" alt="mandelbrot" src="https://github.com/user-attachments/assets/62c7b226-4d06-4f2e-ab77-f89f4b0369ce" />
    
-4) Рисунок 4 - Множество Жюлиа
+5) Рисунок 4 - Множество Жюлиа
    <img width="1200" height="800" alt="julia" src="https://github.com/user-attachments/assets/0070637a-7955-4bc8-9473-9ab35eb8ce5a" />
    
-5) Рисунок 5 - Burning Ship
+6) Рисунок 5 - Burning Ship
    <img width="1200" height="800" alt="burning_ship" src="https://github.com/user-attachments/assets/87a65e6b-17f7-4875-b34c-013f38ac7cbb" />
    
-6) Рисунок 6 - Tricorn
+7) Рисунок 6 - Tricorn
    <img width="1200" height="800" alt="tricorn" src="https://github.com/user-attachments/assets/c30eeb6d-d108-4bb3-9673-872bcaaa6b6a" />
    
-7) Рисунок 7 - Multibrot (обобщённый Мандельброт)
+8) Рисунок 7 - Multibrot (обобщённый Мандельброт)
    <img width="1200" height="800" alt="multibrot" src="https://github.com/user-attachments/assets/189c71f1-c77c-4e09-9b21-91c4412730b4" />
    
